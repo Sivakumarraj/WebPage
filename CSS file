@@ -1,0 +1,136 @@
+.left{
+    height: 1380px;
+    width: 230px;
+    background-color: black;
+}
+.right{
+    height: 1380px;
+    width: 1290px;
+    background-color: bisque;
+    
+}
+body{
+    display: flex;
+}
+h3{
+    margin-top: 0%;
+    color: white;
+    background-color: aquamarine;
+    text-align: center;
+    height: 30px;
+    padding: 10px;
+}
+
+.left1{
+    margin: 0%;
+    cursor: pointer;    
+    background-color: black;
+    width: 230px;
+    height: 50px;
+   
+}
+button:hover{
+    background-color: aquamarine;
+    scale: 1.1;
+  
+}
+button{
+    background-color: black;
+    height: 50px;
+    width: 230px;
+    color: white;
+    font-size: 14px;
+    text-align: left;
+    padding: 5px;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.pic{
+    height: 12px;
+    width: 12px;
+    display: inline;
+    
+}
+.nav1{
+    background-color: aliceblue;
+    height: 49px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.menu{
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+}
+
+option:hover{
+    background-color: blue;
+}
+form{
+    padding: 15px;
+
+}
+select{
+    background-color: aquamarine;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.emb{
+    height: 35px;
+    width: 28px;
+    background-color: beige;
+    padding:8px ;
+    
+}
+.nav2{
+    display: flex;
+    background-color: beige;
+}
+h2{
+    padding: 10px;
+ 
+}
+.nav3{
+    padding:20px ;
+}
+.nav4{
+    display: flex;
+}
+.card{
+    height: 200px;
+    width: 290px;
+    border-radius: 10px;
+    margin-left: 23px;
+    
+
+}
+.nav5{
+    display: flex;
+    
+}
+.att1{
+    height:400px ;
+    width:600px ;
+    padding: 20px;
+}
+.nav7{
+    padding: 32px;
+    background-color: black;
+    color: white;
+}
+.p1{
+    text-align: center;
+    font-size: 17px;
+}
+.p2{
+    font-size: 17px;
+    padding: 4px;
+}
+.p3{
+    text-align: center;
+    font-size: 15px;
+}
